@@ -32,14 +32,12 @@ A heatmap also helps show weekly usage patterns. Once again we can see the heavy
 7. Number of Rides with Bike IK- the divergence line shows that there are high use on 1/3 of the bikes
 ![Screen Shot 2022-10-19 at 8 34 54 PM](https://user-images.githubusercontent.com/106174279/196842944-a369e09f-4788-42aa-9e4d-ccb89678916c.png)
 ## Summary
--Nonpeak hours are 1-5am. These hours would be the best times to conduct bike repairs and redistribution of bikes from full stations to less-full stations. 
 - Male subscribers are the highest users and follow the traditional high use times of travel to and from work.
-- The target audience are males who need transportation to work (rushhour in the morning and evening) and for weekend activities. It would be a good idea to recommend a subscription service
+- The target audience are males who need transportation to work (rushhour in the morning and evening) and for weekend activities. It would be a good idea to implement a subscription service to encourage more frequent usage and more outreach should be done to attract female riders. 
+- Nonpeak hours are 1-5am. These hours would be the best times to conduct bike repairs and redistribution of bikes from full stations to less-full stations. 
 ## Additional Research
 1. Ride Starting locations by Gender- Male users typically start a trip across the river in the southwest part of NYC compared to female users
 ![Screen Shot 2022-10-19 at 8 39 32 PM](https://user-images.githubusercontent.com/106174279/196843488-a0c7e069-7d1e-42c3-b30b-0bdc2bcc027c.png)
-2. Ride Ending Locations by Gender- Male users typically end a trip across the river in the southwest part of NYC compared to female users
-![Screen Shot 2022-10-19 at 8 39 39 PM](https://user-images.githubusercontent.com/106174279/196843504-b376b0dd-f5a9-43aa-90ac-4b76c34c9a4a.png)
 3. User Type Starting Location- subscribers usually start their trip on the out skirt of NYC than other places.
 ![Screen Shot 2022-10-19 at 8 39 46 PM](https://user-images.githubusercontent.com/106174279/196843509-97f6e5ad-9af5-48d1-9c27-f90286d77d9e.png)
 
