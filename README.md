@@ -21,7 +21,6 @@ Subscribers are regular users of the Citibike share system and contribute to a p
 2. Checkout times by gender- males are significantly higher users than others
 ![Screen Shot 2022-10-19 at 8 34 08 PM](https://user-images.githubusercontent.com/106174279/196842858-44c2fd96-9ff5-4961-b4f3-3f7b470a935c.png)
 3. Trips (Weekday per Hour) Peak riding hours are 6-10am and 5-8PM during the weekday and 5am-10pm on the weekends.
-![Screen Shot 2022-10-19 at 8 34 19 PM](https://user-images.githubusercontent.com/106174279/196842879-992ff5fa-831e-420b-8f25-9b2f9bd56ef1.png)
 ![Screen Shot 2023-05-14 at 4 33 34 PM](https://github.com/mckayemeeves/bikesharing/assets/106174279/6ed5f6b4-9395-441d-8559-60ea885a55e5)
 A heatmap also helps show weekly usage patterns. Once again we can see the heavy bike usage during weekday commute times, and weekend usage is spread throughout the middle of the day. An interesting anomaly is the relatively low bike usage during Wednesday's end-of-day commute. It could be useful to explore reasons for this (system outage, Wednesday holidays in August, something less obvious?), but it could just be an arbitrary anomaly.
 4. Trips by Gender (Weekday per Hour)- Males are high users during the peak hours
